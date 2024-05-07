@@ -1,0 +1,27 @@
+{
+  "response": [
+    {
+      "id": 2,
+      "service_provider_id": 1,
+      "delivery_men_id": null,
+      "service_table_id": 1,
+      "customer_id": null,
+      "customer_email": "yI0m3oeqTGQN3XQ4aOrKELx1RmSit9ZAUcO4kqgq",
+      "customer_number": "01632193899",
+      "order_code": "OR-413687",
+      "pickup_option": "Restaurant",
+      "offer_id": null,
+      "order_status": 1,
+      "payment_reference": null,
+      "total_amount": "150.00",
+      "discount": "0.00",
+      "paid_amount": "150.00",
+      "payment_method": 1,
+      "payment_meta": null,
+      "payment_status": "INCOMPLETED",
+      "customer_payment_id": "",
+      "created_at": "2022-08-17T17:40:22.000000Z",
+      "updated_at": "2022-08-17T17:40:22.000000Z"
+    }
+  ]
+}
